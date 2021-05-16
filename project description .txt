@@ -1,0 +1,12 @@
+# MUSIC EQUILIZER #
+
+SEE THE MUSIC!!
+ Project requirements
+ 1.Web app
+ 2.User can signup and create an account
+ 3.Input:music mp3
+ 4.Output:video visualisation of music
+ 5.Preview the video and download
+ 6.Save past videos
+ 
+ 
