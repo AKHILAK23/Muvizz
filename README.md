@@ -1,4 +1,4 @@
-# music--equilizer #
+# MUVIZZ #
 
 SEE THE MUSIC!!
 
